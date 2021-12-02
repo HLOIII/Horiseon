@@ -86,6 +86,10 @@ p {
     background-color: #2589bd;
 }
 
+aside h2 {
+    display:none ;
+}
+
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
