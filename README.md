@@ -20,4 +20,4 @@ I mostly used the information I was given from my class and I used "MDN Web Docs
 
 Link to website: https://hloiii.github.io/horiseon/
 
-![screenshot](https://github.com/HLOIII/horiseon/blob/main/assets/images/screenshot.PNG)
+![screenshot](assets/images/screenshot.PNG)
